@@ -1,0 +1,13 @@
+@media (min-width: 670px) {
+  .contacto-site {
+    background-image: url("../img/fondo-contacto.jpg");
+  }
+
+  body .contact {
+    height: 570px;
+  }
+
+  body .footer-container__img {
+    margin-top: 10px;
+  }
+}

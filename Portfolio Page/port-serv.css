@@ -1,0 +1,63 @@
+body .main-section {
+  height: 250px;
+}
+
+.proyects-section {
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+.proyects-section__card {
+  color: white;
+  width: 350px;
+  text-align: center;
+  border: solid 2px grey;
+  border-radius: 10px;
+  margin-bottom: 80px;
+}
+
+.proyects-section__card-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.proyects-section__card-title-and-text {
+  padding: 0 10px 20px 10px;
+}
+
+.proyects-section__card-title {
+  font-size: 24px;
+}
+
+.proyects-section__card-text {
+  font-size: 16px;
+}
+
+.proyects-section__card-link {
+  margin: 0 0 20px 0;
+  text-decoration: none;
+  color: rgb(150, 40, 150);
+}
+
+.contact-componente {
+  display: none;
+}
+
+@media (min-width: 670px) {
+  .header-and-main {
+    background-image: url("../img/Fondo\ servi-portf.jpg");
+  }
+
+  body .main-section {
+    height: 550px;
+  }
+
+  .main-section .main-section__container-text {
+    text-align: left;
+    font-weight: 700;
+    font-size: 60px;
+    margin: 0 0 50px 20px;
+  }
+}
