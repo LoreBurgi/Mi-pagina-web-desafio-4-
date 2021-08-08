@@ -3,7 +3,7 @@ function header(el) {
 
   componentEl.innerHTML = `
   <header class="header">
-        <a href="../index.html">
+        <a href="./index.html">
         <img src="https://i.ibb.co/vwzNRCH/Lore-blanco-png.png" alt="" class="header__img-logo" />
         </a>
           <div class="header__menu-hamburguesa">
@@ -24,9 +24,9 @@ function header(el) {
             </div>
           </div>
           <div class="header__menu-opciones">
-            <a  href="../Portfolio Page/portfolio.html">Portfolio</a>
-            <a href="../Servicies Page/servicios.html">Servicios</a>
-            <a class="contacto" href="../Contact Page/contacto.html">Contacto</a>
+            <a  href="../portfolio.html">Portfolio</a>
+            <a href="../servicios.html">Servicios</a>
+            <a class="contacto" href="../contacto.html">Contacto</a>
           </div>
         </header>
   `;
