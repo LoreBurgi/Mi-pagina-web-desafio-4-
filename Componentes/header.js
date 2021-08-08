@@ -24,9 +24,9 @@ function header(el) {
             </div>
           </div>
           <div class="header__menu-opciones">
-            <a  href="../portfolio.html">Portfolio</a>
-            <a href="../servicios.html">Servicios</a>
-            <a class="contacto" href="../contacto.html">Contacto</a>
+            <a  href="./portfolio.html">Portfolio</a>
+            <a href="./servicios.html">Servicios</a>
+            <a class="contacto" href="./contacto.html">Contacto</a>
           </div>
         </header>
   `;
