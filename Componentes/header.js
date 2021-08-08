@@ -17,9 +17,9 @@ function header(el) {
                 <span class="button-x">X</span>
               </div>
               <div class="menu-hamburguesa__contenido">
-                <a class="ventana-content" href="../Portfolio Page/portfolio.html">Portfolio</a>
-                <a class="ventana-content" href="../Servicies Page/servicios.html">Servicios</a>
-                <a class="ventana-content" href="../Contact Page/contacto.html">Contacto</a>
+                <a class="ventana-content" href="./portfolio.html">Portfolio</a>
+                <a class="ventana-content" href="./servicios.html">Servicios</a>
+                <a class="ventana-content" href="./contacto.html">Contacto</a>
               </div>
             </div>
           </div>
